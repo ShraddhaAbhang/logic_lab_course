@@ -22,7 +22,7 @@ if str_lst == rev_lst:
 else:
     print("Its not")
 
-# 
+# ###############################################
 str1 = input(str("Enter you string: "))
 str2 = reversed(str1)
 # str2 = str(str2)
@@ -35,5 +35,4 @@ if str1 == str2:
     print("its palandrom")
 else:
     print("Its not")
-
 
